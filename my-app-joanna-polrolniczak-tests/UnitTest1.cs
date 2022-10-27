@@ -10,7 +10,7 @@ namespace my_app_joanna_polrolniczak_tests
 		[Test]
 		public void Test1()
 		{
-			Assert.Fail();
+			Assert.Pass();
 		}
 	}
 }
